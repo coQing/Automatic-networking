@@ -10,3 +10,7 @@
 **2 将快捷方式剪切到  %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup 目录即可**
 
 *注意：根据电脑连上校园网的网线或者wifi的时间 修改config.txt文件的第四行 否则脚本启动了 电脑没连上网线 就会失败*
+
+# 源码地址
+
+**https://github.com/coQing/Automatic-networking**
